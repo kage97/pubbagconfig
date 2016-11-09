@@ -1,29 +1,132 @@
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+[Display]
+FullscreenRefresh=0
+Maximized=0
+FullscreenWidth=1600
+FullscreenHeight=900
+WindowedWidth=1024
+WindowedHeight=768
+Mode=Fullscreen
+FullscreenMode=Fullscreen
+HDPixelPlus=1.000000
+RefreshRate=0
 
-# Precompiled Headers
-*.gch
-*.pch
+[Rendering]
+EffectsQuality=2
+OverallQuality=-1
+TextureQuality=1
+ShadowQuality=1
+FloraQuality=1
+RenderDistance=500.000000
+Gamma=-0.350000
+MaximumFPS=144
+UseLod0a=1
+Smoothing=0
+ModelQuality=1
+FogShadowsEnable=0
+AO=0
+VerticalFOV=67
+LightingQuality=0
+ParticleLOD=1
+UseDepthOfField=0.000000
+VSync=0
+SpeedTreeLOD=0
+InteriorLighting=0
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
+[Controls]
+CameraAutoAdjustment=1
+ClickToMove=0
+ClickToMoveRightButton=0
+RailCamera=1
 
-# Fortran module files
-*.mod
-*.smod
+[Sound]
+Master=0.690000
+SoundEffects=1.000000
+UI=1.000000
+Dialog=0.000000
+MusicMaster=0.000000
+MusicAmbient=0.000000
+MusicEncounter=0.000000
+MuteAll=0
 
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
+[VideoStreamer]
+Resolution=1
+Fps=30
+Kbps=0
+MicRecordVolume=0.000000
+SpeakerRecordVolume=1.000000
+Username=
 
-# Executables
-*.exe
-*.out
-*.app
+[AutoRefuse]
+FriendInvitation=0
+DuelInvitation=0
+GuildInvitation=0
+HideUi=1
+TradeRequest=0
+HousingInvitation=0
+GroupInvitation=0
+
+[UI]
+reticle_frame=23
+reticle_tint=16711680
+usCheckboxState=true
+euCheckboxState=false
+auCheckboxState=false
+SelectedChatChannel=GeneralPC
+InventoryListType=1
+hasPoppedTooltipModerate Bleeding=1
+hasPoppedTooltipBandage: Healing=1
+hasPoppedTooltipSevere Bleeding=1
+hasPoppedTooltipMinor Bleeding=1
+reticleClassicMode=1
+HudVitalsMode=1
+SteamFriendServerShare=0
+hideChatOption=1
+reticleShowCOF=0
+hasPoppedTooltipHeavy Bleeding=1
+hasPoppedTooltipCritical Bleeding=1
+hasPoppedTooltipLight Bleeding=1
+hasPoppedTooltipBurning=1
+braCheckboxState=false
+Resources=0.9000|0.9356|0.00|0.00
+FirstTimeEventEnabled=0
+aboutInvShow=0
+aboutCraftingShow=0
+CenterInventory=0
+
+[VoiceChat]
+EchoEnabled=1
+EchoVolume=0.500000
+ProximityEnabled=1
+ProximityVolume=0.500000
+GroupEnabled=1
+GroupVolume=0.500000
+RaidEnabled=1
+RaidVolume=0.500000
+GuildEnabled=1
+GuildVolume=0.500000
+RadioEnabled=1
+RadioVolume=0.500000
+CBEnabled=1
+CBVolume=0.500000
+CustomEnabled=1
+CustomVolume=0.500000
+InputDevice=Microphone (2- AT2020 USB
+OutputDevice=No Device
+
+[Voice]
+ReceiveVolume=60.000000
+MicrophoneVolume=50.000000
+Enable=0
+DisableProximityChatInTheBoxOfDestiny=0
+
+[General]
+MouseSensitivity=0.070000
+ADSMouseSensitivity=0.070000
+ScopedMouseSensitivity=0.070000
+FlightMouseSensitivity=0.40000
+FirstPerson=0
+GamepadInvertLook=0
+AutoDetectPerformanceSettings=2
+VehicleMouseSensitivity=0.140000
+MouseRawInput=1
+
